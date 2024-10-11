@@ -80,3 +80,5 @@ This repo features a comprehensive collection of gaming forums and news sources 
 [Discord unreal-slackers channel](https://discord.gg/unreal-slackers) - Community channel for Unreal Engine developers.  
 [Discord pixelartchannel](https://discord.gg/pixelart) - Channel dedicated to pixel art, a popular style used in many games. Artists and developers can share their work, discuss techniques, and get feedback.  
 
+[![Return](https://img.shields.io/badge/Return-README-808080?style=for-the-badge&logoColor=black)](https://github.com/bluegravitystudios/bgs-gamedev-repo/blob/main/README.md)
+
