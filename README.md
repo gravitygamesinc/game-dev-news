@@ -1,4 +1,4 @@
-# 📎 Game Development News
+# 🌐 Game Development News
 This repo features a comprehensive collection of gaming forums and news sources to keep you informed about the latest industry trends, game releases, and community discussions. Whether you're a developer seeking insights or a gamer wanting to connect with others, you'll find valuable resources here to stay engaged with the gamedev world. Explore forums to participate in conversations, ask questions, or share experiences, and access news outlets offering in-depth articles, reviews, and analyses on all things gaming.  
 
 # 📰 News 
