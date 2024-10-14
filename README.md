@@ -1,7 +1,7 @@
 # 🌐 Game Development News
 This repo features a comprehensive collection of gaming forums and news sources to keep you informed about the latest industry trends, game releases, and community discussions. Whether you're a developer seeking insights or a gamer wanting to connect with others, you'll find valuable resources here to stay engaged with the gamedev world. Explore forums to participate in conversations, ask questions, or share experiences, and access news outlets offering in-depth articles, reviews, and analyses on all things gaming.  
 
-# 🗣 Discord Servers  
+## 🗣 Discord Servers  
 [Discord brackeys channel](https://discord.gg/brackeys) - Channel associated with the popular game development YouTuber Brackeys, offering a community space for his viewers.  
 [Discord construct channel](https://discord.gg/construct) - Discord server for the Construct game engine, where users can discuss Construct development, share projects, and get help.  
 [Discord gamedev channel](https://discord.com/invite/gamedev) - General channel for game developers, covering various aspects of game creation.  
@@ -12,7 +12,7 @@ This repo features a comprehensive collection of gaming forums and news sources 
 [Discord unreal-slackers channel](https://discord.gg/unreal-slackers) - Community channel for Unreal Engine developers.  
 [Discord pixelartchannel](https://discord.gg/pixelart) - Channel dedicated to pixel art, a popular style used in many games. Artists and developers can share their work, discuss techniques, and get feedback.  
 
-# 👥 Forum & Communities  
+## 👥 Forum & Communities  
 [Bungie](https://www.bungie.net/en/Forums/Topics?tSort=3&tType=0&d=3&lang=en) - Official forum for Bungie games, like Destiny.  
 [Cheap Ass Gamer](https://www.cheapassgamer.com/forums/) - A forum dedicated to finding deals on video games.  
 [Cyberpunk](https://forums.cdprojektred.com/index.php?forums/cyberpunk.21/) - Official forum for the Cyberpunk 2077 game, offering discussions, bug reports, and updates.  
@@ -29,7 +29,7 @@ This repo features a comprehensive collection of gaming forums and news sources 
 [TIGSource](https://forums.tigsource.com/) - A forum dedicated to independent game development, offering discussions, resources, and showcases for indie titles.  
 [Unity discussions](https://discussions.unity.com/) - Official forum for the Unity game development engine, offering discussions, tutorials, and resources.  
 
-# 📰 News 
+## 📰 News 
 [Attack of the Fanboy](https://attackofthefanboy.com/) - Provides video game news, reviews, previews, features, and editorials with a focus on entertainment and pop culture.  
 [Destuctoid](https://www.destructoid.com/) - A website offering video game news, reviews, previews, features, and community discussions with a more casual and humorous tone.  
 [DualShockers](https://www.dualshockers.com/) - Offers PlayStation-centric news, reviews, previews, features, editorials, and guides.  
