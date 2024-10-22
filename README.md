@@ -88,5 +88,9 @@
 - [VideoGamer](https://www.videogamer.com/) - Provides video game news, reviews, previews, features, and editorials.  
 - [Worthplaying](https://www.worthplaying.com/news/) - Features video game news, reviews, previews, and features.  
 
-[![Return](https://img.shields.io/badge/Return-README-808080?style=for-the-badge&logoColor=black)](https://github.com/bluegravitystudios/bgs-gamedev-repo/blob/main/README.md)
+[//]: #Buttons
+<div align="center">
+  <a href="https://github.com/bluegravitystudios" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2044.png" height="40" alt="Back home"  /></a>
+  <a href="https://github.com/bluegravitystudios/game-dev-news?tab=readme-ov-file#-game-development-news" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2045.png" height="40" alt="Back top"  /></a>
+</div>
 
