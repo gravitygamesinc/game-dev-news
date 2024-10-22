@@ -1,6 +1,19 @@
 ![GameDevNews](https://github.com/bluegravitystudios/game-dev-news/blob/main/gamedev_news.png)
 # 🌐 Game Development News
->This repo features a comprehensive collection of gaming forums and news sources to keep you informed about the latest industry trends, game releases, and community discussions. Whether you're a developer seeking insights or a gamer wanting to connect with others, you'll find valuable resources here to stay engaged with the gamedev world. Explore forums to participate in conversations, ask questions, or share experiences, and access news outlets offering in-depth articles, reviews, and analyses on all things gaming.  
+This repo features a comprehensive collection of gaming forums and news sources to keep you informed about the latest industry trends, game releases, and community discussions. Whether you're a developer seeking insights or a gamer wanting to connect with others, you'll find valuable resources here to stay engaged with the gamedev world. Explore forums to participate in conversations, ask questions, or share experiences, and access news outlets offering in-depth articles, reviews, and analyses on all things gaming.  
+
+Didn't find what you were looking for? Check out our other repos!
+
+[//]: #Repos
+<div align="lef">
+  <a href="https://github.com/bluegravitystudios/gamedev-free-resources" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2049%402x.png" height="40" alt="Free Assets"  /></a>
+  <a href="https://github.com/bluegravitystudios/free-engines.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2051%402x.png" height="40" alt="Free Platforms"  /></a>
+  <a href="https://github.com/bluegravitystudios/gamedev-101.md" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2051%402x.png" height="40" alt="GameDev 101"  /></a>
+  <a href="https://github.com/bluegravitystudios/learning-resources.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2052%402x.png" height="40" alt="Learning Resources"  /></a>
+  <a href="https://github.com/bluegravitystudios/game-dev-news" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2054%402x.png" height="40" alt="GameDev News"  /></a>
+</div>
+
+### Table of Contents
 
 |Summary|  
 |:----------------------------------| 
